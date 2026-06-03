@@ -1,1 +1,1 @@
-# basuc-math-programs-java
+# basic-math-programs-java
